@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className="flex py-3 flex-wrap justify-around">
+    <div className="flex py-3 flex-wrap justify-around shadow-lg">
       <h1 className="text-lg font-semibold">
         To-Do-App
       </h1>
